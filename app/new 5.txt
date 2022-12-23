@@ -1,0 +1,42 @@
+CATEGORY
+   HOME MAKER
+      Work from home
+      Online job
+   JOB SEEKER
+      Job
+      Online job
+   EMPLOYEE
+      Part time job
+      Online job
+      Better job
+   BUSINESSMAN
+      Employee
+      Customer base
+   PART TIME WORKER
+      Part time job
+      Online job
+      Better job
+   TO START BUSINESS
+      Capital
+      Idea
+      Advice
+   TO MAKE PASSIVE INCOME
+      Capital
+      Idea
+      Advice
+   STUDENT
+      Online Course
+      Online job
+      On Job Training
+NAME
+DOB
+QUALIFICATION
+MOBILE
+E-mail
+ADDRESS
+BUSINESS ADDRESS
+PIN CODE
+BUSINESS
+EXPERIENCE
+REQUIREMENT
+REMARKS / MESSAGE

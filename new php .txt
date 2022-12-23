@@ -1,0 +1,13 @@
+		   <div class="form-group">
+                                    <div class="select-style">                                    
+                                        <select class="form-control" name="blood_nmae">
+<?php
+	$sql = "select * from ka_blood_group order by id";
+	$result = mysqli_query($conn, $sql);
+	while ($row = mysqli_fetch_array($result)) {
+?>
+                                            <option value="<?php echo $row['id']; ?>"><?php echo $row['blood_nmae']; ?></option>
+                                           <?php } ?>
+                                        </select>
+                                    </div>
+                                </div>
